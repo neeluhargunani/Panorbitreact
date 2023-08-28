@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Panorbitreact/static/css/main.9f55abf0.css",
+    "main.js": "/Panorbitreact/static/js/main.f67fc9a4.js",
+    "static/js/787.3aa17b3a.chunk.js": "/Panorbitreact/static/js/787.3aa17b3a.chunk.js",
+    "static/media/home.png": "/Panorbitreact/static/media/home.9a3f99bda09ac6851972.png",
+    "index.html": "/Panorbitreact/index.html",
+    "main.9f55abf0.css.map": "/Panorbitreact/static/css/main.9f55abf0.css.map",
+    "main.f67fc9a4.js.map": "/Panorbitreact/static/js/main.f67fc9a4.js.map",
+    "787.3aa17b3a.chunk.js.map": "/Panorbitreact/static/js/787.3aa17b3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f55abf0.css",
+    "static/js/main.f67fc9a4.js"
+  ]
+}
